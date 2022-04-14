@@ -1,6 +1,6 @@
-# hello_world
+# startup_namer
 
-A new Flutter project.
+This is my first flutter project. It shows list of startup names that generated from english_word package in pub.dev
 
 ## Getting Started
 
